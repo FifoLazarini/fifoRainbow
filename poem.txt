@@ -1,7 +1,7 @@
 O aro iris
 
 azul 
-roxo
+roxo[amarelo
 todas 
 todas
 as cores
